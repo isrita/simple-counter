@@ -1,6 +1,6 @@
 import React from "react";
 import propTypes from "prop-types";
-import { faClock } from '@fortawesome/free-regular-svg-icons'
+import { faClock } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 var uni = 0
 var dec = 0
